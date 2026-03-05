@@ -20,7 +20,7 @@ For rooted devices, just start directly.
 
 ### Start via wireless debugging
 
-Starting with wireless debugging works on Android 11 or above. This startup method does not require a connection to a computer. Due to system limitations, the startup steps need to be performed again after each reboot.
+Starting with wireless debugging works on  Android 11 or above. This startup method does not require a connection to a computer. Due to system limitations, the startup steps need to be performed again after each reboot.
 
 #### Enable Wireless debugging
 
@@ -56,7 +56,7 @@ See [Android Developer](https://developer.android.com/studio/command-line/adb) f
 
 1. Download "SDK Platform Tools" provided by Google and extract it to any folder
 
-   * [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+   * [Windows](commandngsid://dl.google.com/android/repository/platform-tools-latest-windows.zip)
    * [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
    * [Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
 
